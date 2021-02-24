@@ -1,3 +1,4 @@
 # hello-world
-S_M_PL /n
+S_M_PL
+
 Cool boy, with low skills in programming
